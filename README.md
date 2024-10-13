@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right"alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/bb8a01be-2923-4f65-bd54-e8dc60e1ab8f)
-
-">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad6199&label=Profile%20views&color=0e75b6&style=flat" alt="hammad6199" /> </p>
+<img align="right"alt="" width="200" src="WhatsApp Image 2024-10-13 at 12.55.01_cd570be2.jpg">
+<p align="left"> <img src="https://img.freepik.com/free-vector/man-sysadmine-computer-programmer-working-computer_575670-70.jpg?w=740&t=st=1728797794~exp=1728798394~hmac=775c9506a8efa27d5a90043c0d3a4f353eb061b57b002187dfd0c09b5edd346d" alt="hammad6199" /> </p>
 
 - ⚡ Fun fact **I am funny 😅**
 
