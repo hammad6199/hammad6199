@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 <img align="right"alt="" width="200" src="WhatsApp Image 2024-10-13 at 12.55.01_cd570be2.jpg">
-<p align="left"> <img src="https://img.freepik.com/free-vector/man-sysadmine-computer-programmer-working-computer_575670-70.jpg?w=740&t=st=1728797794~exp=1728798394~hmac=775c9506a8efa27d5a90043c0d3a4f353eb061b57b002187dfd0c09b5edd346d" alt="hammad6199" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?t=st=1728814409~exp=1728818009~hmac=7c3e54896da8c7bfaad1a18a69d07882de4a286d384dae7d50b7071489cfbdc2&w=740" alt="hammad6199" /> </p>
 
 - ⚡ Fun fact **I am funny 😅**
 
