@@ -1,19 +1,40 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right"alt="" width="200" src="WhatsApp Image 2024-10-13 at 12.55.01_cd570be2.jpg">
-<p align="left"> <img src="https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?t=st=1728814409~exp=1728818009~hmac=7c3e54896da8c7bfaad1a18a69d07882de4a286d384dae7d50b7071489cfbdc2&w=740" alt="hammad6199" /> </p>
+<h1 align="center">Hi there! 👋 I'm [Muhammad Hammad]!</h1>
+<h3 align="center">A passionate Web developer from Pakistan</h3> <h2>🌱 About Me:</h2>
+- <i><b>🎓 Qualification: *Matric*</b></i><br>
+- <i><b>📚 Currently learning *JavaScript* and *CSS*</b></i><br>
+- <i><b>💻 Experience in *HTML* and building web pages</b></i><br>
+- <i><b>🚀 Excited to explore more about web development and create amazing projects!</b></i>🚀
+<img src="https://img.pikbest.com/origin/10/39/14/59WpIkbEsTVxf.jpg!w700wp" alt="Cool Boy Web Developer" width="700" height="700">
 
-- ⚡ Fun fact **I am funny 😅**
+  <!-- Replace with your actual image URL -->
+  - ⚡ Fun fact **I am funny 😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠 Skills & Learning:
+- *Languages:* ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+- *Tools:* ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### 📂 Current Focus:
+- Learning *JavaScript* to make websites more interactive
+- Understanding *CSS* for styling web pages
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad6199&show_icons=true&locale=en&layout=compact" alt="hammad6199" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad6199&show_icons=true&locale=en" alt="hammad6199" /></p>
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad6199&" alt="hammad6199" /></p>
+
+![Web Developer Boy](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+
+
+<!-- Replace with any animation you like -->
+
+Contact me mail: <a href="mailto:itz.hammadx.109@gmail.com">[itz.hammadx.109@gmail.com]</a>
+
+---
