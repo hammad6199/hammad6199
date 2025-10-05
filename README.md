@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from Pakistan</h3> <h2>🌱 About Me:</h2>
 - <i><b>🎓 Qualification: *Matric*</b></i><br>
 - <i><b>📚 Currently learning *JavaScript* and *CSS*</b></i><br>
-- <i><b>💻 Experience in *HTML* and building web pages</b></i><br>
+- <i><b>💻 Experience in *HTML & Css & Java Script and building web pages</b></i><br>
 - <i><b>🚀 Excited to explore more about web development and create amazing projects!</b></i>🚀
 <img src="https://img.pikbest.com/origin/10/39/14/59WpIkbEsTVxf.jpg!w700wp" alt="Cool Boy Web Developer" width="700" height="700">
 
